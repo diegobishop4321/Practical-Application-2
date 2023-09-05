@@ -1,1 +1,2 @@
 # Practical-Application-2
+The purpose of this task is to use machine learning techniques to evaluate the data and learn about the trends and customer behavior.  For this particular case, it is important to analyze the factors that drive the price of cars and use such information to give useful recommendations to the client. In other words, we need to understand the behavior and the trends of the data in order to properly give meaningful feedback to the client. 
